@@ -1,4 +1,4 @@
-[
+export const products = [
   {
     "_id": {
       "$oid": "626a48a8916f633a190f0251"

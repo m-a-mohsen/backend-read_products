@@ -1,4 +1,4 @@
-import { products } from "../../../lib/products";
+import mongoose from "mongoose";
 
 export default function handler(request, response) {
   const { id } = request.query;
